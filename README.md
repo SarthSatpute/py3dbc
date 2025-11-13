@@ -9,11 +9,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Based on py3dbp](https://img.shields.io/badge/extends-py3dbp-orange)](https://github.com/jerry800416/3D-bin-packing)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/SarthSatpute/py3dbc/python-package.yml?logo=github&label=build)](https://github.com/SarthSatpute/py3dbc/actions)
-[![PyPI Version](https://img.shields.io/pypi/v/py3dbc.svg?color=brightgreen&logo=pypi)](https://pypi.org/project/py3dbc/)
-[![Downloads](https://static.pepy.tech/personalized-badge/py3dbc?period=total&units=international_system&left_color=black&right_color=blue&left_text=Downloads)](https://pepy.tech/project/py3dbc)
-[![Contributors](https://img.shields.io/github/contributors/SarthSatpute/py3dbc?color=teal)](https://github.com/SarthSatpute/py3dbc/graphs/contributors)
-
 ---
 
 </div>
