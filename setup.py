@@ -8,7 +8,7 @@ setup(
     name="py3dbc",
     version="1.0.0",
     author="Sarth Satpute",
-    author_email="your.email@example.com",
+    author_email="sarthsatpute18@gmail.com",
     description="3D Bin Packing for Containers - Maritime optimization with ship stability physics",
     long_description=long_description,
     long_description_content_type="text/markdown",
