@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="py3dbc",
-    version="1.0.0",
+    version="1.0.2",
     author="Sarth Satpute",
     author_email="sarthsatpute18@gmail.com",
     description="3D Bin Packing for Containers - Maritime optimization with ship stability physics",
