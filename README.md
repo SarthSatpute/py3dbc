@@ -9,7 +9,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Based on py3dbp](https://img.shields.io/badge/extends-py3dbp-orange)](https://github.com/jerry800416/3D-bin-packing)
-
 ---
 
 </div>
@@ -53,10 +52,7 @@ While py3dbp handles general 3D packing, it doesn't account for **ship stability
 ### Installation
 
 ```bash
-pip install py3dbp pandas numpy
-git clone https://github.com/yourusername/py3dbc.git
-cd py3dbc
-pip install -e .
+pip install py3dbc
 ```
 
 ### Basic Usage
